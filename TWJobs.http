@@ -1,0 +1,6 @@
+@TWJobs_HostAddress = http://localhost:5199
+
+GET {{TWJobs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
